@@ -1,0 +1,1 @@
+x=msgbox("Are you sure you would like to add My Computer to the trash bin?", 1+32, "Confirm")

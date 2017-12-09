@@ -1,0 +1,1 @@
+x=msgbox("Your mouse has stopped responding, please click ok to continue", 48+0, "Whoops")

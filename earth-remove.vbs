@@ -1,0 +1,1 @@
+x=msgbox("Earth will now be removed from your computer", 64+0, "Oh no!")
