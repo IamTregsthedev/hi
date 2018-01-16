@@ -33,3 +33,5 @@ Simply click on the ``.vbs`` file to launch the error message, it's that easy! P
 
 ### License 
 🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/MyMIT/).
+
+![Code of Conduct](https://img.shields.io/badge/%E2%88%9A-Code%20of%20Conduct-orange.svg)
