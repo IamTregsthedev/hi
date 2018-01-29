@@ -7,7 +7,7 @@
 ### Installation
 ##### Method one - git clone:
 ```
-git clone https://github.com/vutondesign/doodle.git
+git clone https://github.com/ktrvs/doodle.git
 ```
 
 ##### Method two - copying the code:
@@ -32,6 +32,6 @@ Simply click on the ``.vbs`` file to launch the error message, it's that easy! P
 ----
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/MyMIT/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/MyMIT/).
 
 ![Code of Conduct](https://img.shields.io/badge/%E2%88%9A-Code%20of%20Conduct-orange.svg)
